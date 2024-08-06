@@ -32,7 +32,6 @@ class store{
 };
 int main(){
     store l;
-    int weight;
     l.input();
     l.calc();
     l.display();
